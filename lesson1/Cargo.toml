@@ -7,6 +7,6 @@ edition = "2021"
 
 [[bin]]
 name = "lesson1"
-path = "src/ex1.rs"
+path = "src/ex2.rs"
 
 [dependencies]
